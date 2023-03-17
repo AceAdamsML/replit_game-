@@ -108,11 +108,16 @@ body {
     flex-direction: column;
   }
 }
+.replit{
+  border-left: 6px solid red;
+  background-color: lightgray;
+}
 
 details {
   border: 1px solid #aaa;
   border-radius: 4px;
   padding: 0.5em 0.5em 0;
+
 }
 
 summary {
